@@ -12,7 +12,9 @@ A feature branch is a type of branch specifically used for developing new featur
 **Reduced Risk:** Since the development is isolated, it minimizes the risk of introducing errors into the main codebase. The main branch usually represents the stable version of the product and is protected from the instability of ongoing development in feature branches.  
 **Enhanced Review Process:** Using feature branches facilitates a thorough review process before merging. This review often involves checking for code quality, adherence to project standards, and ensuring compatibility with the existing codebase. The separation into branches simplifies understanding the impact of specific changes.  
 **Incremental Development:** Feature branches allow for incremental updates and changes to be made and tested independently. This means that a feature can evolve in its branch, undergoing multiple rounds of review and revision without affecting the main codebase.  
-Overall, branches, particularly feature branches, are foundational to modern collaborative software development, enabling teams to manage multiple aspects of a project efficiently and effectively.  
+Overall, branches, particularly feature branches, are foundational to modern collaborative software development, enabling teams to manage multiple aspects of a project efficiently and effectively.    
+
+![image](https://user-images.githubusercontent.com/1256329/80170009-f9d03200-85b4-11ea-94d3-3041887565ac.png)
 
 *List all local branches. Add -r flag to show all remote branches. -a flag for all branches.* 
 ```bash
